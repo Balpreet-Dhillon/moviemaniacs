@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/moviemaniacs/static/css/main.d3bf26e6.css",
+    "main.js": "/moviemaniacs/static/js/main.509c09e6.js",
+    "index.html": "/moviemaniacs/index.html",
+    "main.d3bf26e6.css.map": "/moviemaniacs/static/css/main.d3bf26e6.css.map",
+    "main.509c09e6.js.map": "/moviemaniacs/static/js/main.509c09e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3bf26e6.css",
+    "static/js/main.509c09e6.js"
+  ]
+}
